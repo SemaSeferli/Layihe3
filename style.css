@@ -1,0 +1,33 @@
+body{
+    background-image: url(./img1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+    a{
+        text-decoration: none;
+        color:rgb(184, 22, 49);
+        font-size: 22px;
+    }
+    a:hover{
+        color: rgb(10, 97, 22);
+    }
+    .title_1{
+        display: flex;
+        justify-content: space-between;
+        padding: 0 15px;
+        font-size: 30px;
+    }
+    
+    .title_2 a{
+        padding: 15px;
+    }
+    p {
+        text-align: center;
+        margin-top: 250px;
+        font-size: 45px;
+        color: rgb(9, 67, 9);
+    }
+    .Galaxy1{
+        font-size: 30px;
+    }
